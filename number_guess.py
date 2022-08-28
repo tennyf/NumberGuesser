@@ -27,7 +27,6 @@ def juego():
                     juego()
 
 
-
         elif sele_num == solution:
             print generated_number
 
